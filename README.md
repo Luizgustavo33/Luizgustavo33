@@ -1,4 +1,4 @@
-Olá, eu sou o Luiz Gustavo e atualmenente estou cursando o terceiro período de Sistemas de Informação na Una Betim.
+Olá! Eu sou o Luiz Gustavo e atualmenente estou cursando o terceiro período de Sistemas de Informação na Una Betim.
 
 
 
