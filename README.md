@@ -3,7 +3,7 @@ Olá! Eu sou o Luiz Gustavo e atualmenente estou cursando o terceiro período de
 
 
 - 🔭 Estou à procura do meu primeiro emprego!
-- 🌱 Estou aprendendo Java, js, React.js, Python e Mysql, HTML e CSS.
+- 🌱 Estou aprendendo Java, js, React.Js, Python, Mysql, HTML e CSS.
 
 
 <div align="center">
