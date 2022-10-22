@@ -1,9 +1,9 @@
-Olá! Eu sou o Luiz Gustavo e atualmenente estou cursando o terceiro período de Sistemas de Informação na Una Betim.
+Olá! Eu sou o Luiz Gustavo e atualmenente estou cursando o quinto período de Sistemas de Informação na Una Betim.
 
 
 
 - 🔭 Estou à procura do meu primeiro emprego!
-- 🌱 Estou aprendendo Java, js, React.Js, Python, Mysql, HTML e CSS.
+- 🌱 Estou aprendendo Java(Springboot), C#(.Net), js(React, Angular), Python (Flask), Mysql, Mongo DB, HTML, CSS, Api Restful
 
 
 <div align="center">
